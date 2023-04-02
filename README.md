@@ -1,1 +1,2 @@
-# Scaleup-ExcellenteamExercise 2 – functional programming, list comprehension, classes
+# git-pull-request-training-olaib
+
