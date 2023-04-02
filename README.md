@@ -1,4 +1,1 @@
-﻿# git-pull-request-training-olaib
-<h1>This is a main branch<h1>
-
-<p>Pull request</p>
+# Scaleup-ExcellenteamExercise 2 – functional programming, list comprehension, classes
