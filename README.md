@@ -1,4 +1,3 @@
-﻿# git-pull-request-training-olaib
-<<h1>This is a main branch<h1>
+# git-pull-request-training-olaib
 
-<p>Pull request</p>
+This is a main branch
